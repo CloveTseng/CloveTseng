@@ -1,6 +1,8 @@
-### Hi there 👋
-I'm Chloe. <br><br>
-Location:  Taiwan, Taipei. <br><br>
+
+### Intro
+---
+Hi there 👋
+我是 Chloe，台灣台北人。<br><br>
 Front-end Experience:  1 month of experience  , currently learning  Responsive Web Design from freeCodeCamp. <br><br>
 Goal:  land a junior frontend role by May 2024. 💪🏻
 <!--
