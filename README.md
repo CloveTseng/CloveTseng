@@ -1,13 +1,16 @@
 ![image](https://github.com/ChloeTseng064/ChloeTseng064/blob/main/Chloef2e%201.png)
 
-Intro
+Hi, I'm Chloe. :smiley:
 ---
-Hi there 👋
-I'm Chloe, Taiwan Taipei. <br><br>
-<b>Front-end Experience:</b>  1 month of experience  , currently learning  Responsive Web Design from freeCodeCamp. <br><br>
-<b>Goal:</b>  land a junior frontend role by May 2024. 💪🏻
+我是一位非本科系，目前正在朝轉職「新手前端工程師」前進的學習者。<br>
 
-Building projects with:
+技術
+---
+
+專案與作品
+---
+
+連絡我
 ---
 
 <!--
