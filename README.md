@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I'm Chloe.
+Location:  Taiwan, Taipei.
+Front-end Experience:  1 month of experience  , currently learning  Responsive Web Design from freeCodeCamp.
+Goal:  land a junior frontend role by May 2024. 💪🏻
 <!--
 **ChloeTseng064/ChloeTseng064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
