@@ -1,3 +1,4 @@
+![image](https://github.com/ChloeTseng064/ChloeTseng064/blob/main/Chloef2e%201.png)
 
 ### Intro
 ---
