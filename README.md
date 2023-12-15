@@ -1,6 +1,6 @@
 ![image](https://github.com/ChloeTseng064/ChloeTseng064/blob/main/Chloef2e%201.png)
 
-Hi, I'm Chloe. :smiley:
+![image](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/logo_sm.png) Hi, I'm Chloe. :smiley:
 ---
 我是一位非本科系，目前正在朝轉職「新手前端工程師」前進的學習者。<br>
 
@@ -18,11 +18,15 @@ Hi, I'm Chloe. :smiley:
 專案與作品
 ---
 
+Blog
+---
+<a href="https://github.com/ChloeTseng064/F2E_studynotes.git">🌱 F2E 轉職筆記 </a>
+
 連絡我
 ---
 <p align="left">
-<a href="https://discord.gg/1096493109401100311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1096493109401100311" height="30" width="40" /></a>
-<a href="https://codepen.io/@chloetseng1026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@chloetseng1026" height="30" width="40" /></a>
+<a href="https://discord.gg/1096493109401100311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1096493109401100311" height="40" width="40" /></a>
+<a href="https://codepen.io/@chloetseng1026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@chloetseng1026" height="40" width="40" /></a>
 
 </p>
 
