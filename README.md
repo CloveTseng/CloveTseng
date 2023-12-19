@@ -2,7 +2,7 @@
 
 ![image](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/logo_sm.png) Hi, I'm Chloe. :smiley:
 ---
-我是一位非本科系，目前正在朝轉職「新手前端工程師」前進的學習者。<br>
+我是一位非本科系目前正在朝轉職「新手前端工程師」前進的學習者。<br>
 
 技術工具
 ---
