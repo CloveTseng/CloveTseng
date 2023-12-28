@@ -31,6 +31,9 @@ Blog
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chloetseng064&show_icons=true&theme=tokyonight&title_color=d1d5ea&text_color=fcfcfc&hide_border=true&locale=en" alt="chloetseng064" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chloetseng064&show_icons=true&locale=en&layout=compact" alt="chloetseng064" />
+</p>
 
 <!--
 **ChloeTseng064/ChloeTseng064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
