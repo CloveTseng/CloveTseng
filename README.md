@@ -20,7 +20,7 @@
 
 Blog
 ---
-<a href="https://github.com/ChloeTseng064/F2E_studynotes.git">🌱 F2E 轉職筆記 </a>
+<a href="#">🌱 F2E 轉職筆記 </a>
 
 連絡我
 ---
