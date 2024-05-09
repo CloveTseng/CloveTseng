@@ -17,7 +17,7 @@
 
 專案與作品
 ---
-<a href="#">🌱 hexschool 作業 </a>
+<a href="#">🌱 專案 </a>
 
 Blog
 ---
