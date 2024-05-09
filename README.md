@@ -26,7 +26,7 @@ Blog
 連絡我
 ---
 <p align="left">
-<a href="https://discord.gg/1096493109401100311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1096493109401100311" height="40" width="40" /></a>
+<a href="https://discord.gg/1218426159423819809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1218426159423819809" height="40" width="40" /></a>
 <a href="https://codepen.io/ChloeTseng1026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@chloetseng1026" height="40" width="40" /></a>
 
 </p>
