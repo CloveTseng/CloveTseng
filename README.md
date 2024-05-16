@@ -8,7 +8,7 @@ Hi, 我是 Chloe，熱衷於前端開發，創造關心使用者體驗、效能�
 ---
 <p align="left"> 
   <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/html-5.png" alt="html5" width="40" height="40" >
-  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/css.png" alt="css3" width="40" height="40" >
+  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/css-3.png" alt="css3" width="40" height="40" >
   <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/js.png" alt="JS" width="40" height="40" >
   <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/typescript.png" alt="TS" width="40" height="40" >
   <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/physics.png" alt="react" width="40" height="40" >
