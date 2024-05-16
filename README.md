@@ -1,33 +1,31 @@
-![image](https://github.com/ChloeTseng064/ChloeTseng064/blob/main/Chloef2e%201.png)
+![image](https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/Chloef2e%201.png)
 
-![image](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/logo_sm.png) Hi, I'm Chloe. :smiley:
+<img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/Chloe-min_wbg.jpg" alt="logo-min" width="20" height="20" > Front-End React Developer. 😃
 ---
-我是一位非本科系目前正在朝轉職「新手前端工程師」前進的學習者。<br>
+Hi, 我是 Chloe，熱衷於前端開發，創造關心使用者體驗、效能良好的產品。👋 <br>
 
 技術工具
 ---
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
-  </p>
+  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/html-5.png" alt="html5" width="40" height="40" >
+  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/css.png" alt="css3" width="40" height="40" >
+  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/js.png" alt="JS" width="40" height="40" >
+  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/typescript.png" alt="TS" width="40" height="40" >
+  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/physics.png" alt="react" width="40" height="40" >
+  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/sass.png" alt="sass" width="40" height="40" >
+</p>
 
 專案與作品
 ---
 <a href="#">🌱 專案 </a>
 
-Blog
+Resume
 ---
 
 
-連絡我
+💬 連絡我
 ---
 <p align="left">
-<a href="https://discord.gg/1218426159423819809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1218426159423819809" height="40" width="40" /></a>
-<a href="https://codepen.io/ChloeTseng1026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@chloetseng1026" height="40" width="40" /></a>
 
 </p>
 
