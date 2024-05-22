@@ -2,37 +2,41 @@
 
 <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/Chloe-min_wbg.jpg" alt="logo-min" width="20" height="20" > Front-End React Developer. 😃
 ---
-Hi, 我是 Chloe，熱衷於前端開發，創造關心使用者體驗且效能良好的產品。👋 <br>
+#### Hi, 我是 Chloe，熱衷於前端開發，創造關心使用者體驗且效能良好的產品。👋 <br>
 
 技術工具
 ---
-<p align="left"> 
-  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/html-5.png" alt="html5" width="40" height="40" >
-  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/css-3.png" alt="css3" width="40" height="40" >
-  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/js.png" alt="JS" width="40" height="40" >
-  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/typescript.png" alt="TS" width="40" height="40" >
-  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/physics.png" alt="react" width="40" height="40" >
-  <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/sass.png" alt="sass" width="40" height="40" >
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 
 專案與作品
 ---
-<a href="#">🌱 專案 </a>
+* <a href="#">🌱 專案 </a>：目前製作中。
+
 
 Resume
 ---
+<img alt="Static Badge" src="https://img.shields.io/badge/DOWNLOAD-8A2BE2">
+
+
+學習文章
+---
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
 
 
 💬 連絡我
 ---
-<p align="left">
+<a href="discordapp.com/users/1218426159423819809"><img src="https://img.shields.io/badge/%40chloe_mobao-Discord-8A2BE2" alt="Discord: @chloe_mobao"></a>
+<a href="mailto:Chloe.tseng1026@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" ></a>
 
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chloetseng064&show_icons=true&theme=tokyonight&title_color=d1d5ea&text_color=fcfcfc&hide_border=true&locale=en" alt="chloetseng064" /></p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chloetseng064&show_icons=true&locale=en&layout=compact" alt="chloetseng064" />
-</p>
+---
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=chloetseng064&show_icons=true&theme=dark&title_color=d1d5ea&text_color=fcfcfc&border=true&locale=en" alt="chloetseng064" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=chloetseng064&show_icons=true&locale=en&layout=compact&theme=dark" alt="chloetseng064" />
 
 <!--
 **ChloeTseng064/ChloeTseng064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
