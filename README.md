@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/Chloe-min_wbg.jpg" alt="logo-min" width="20" height="20" > Front-End React Developer. 😃
 ---
-#### Hi, 我是 Chloe，熱衷於前端開發，創造關心使用者體驗且效能良好的產品。👋 <br>
+#### Hi, 我是 Chloe，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，創造且關心使用者體驗並效能良好的產品。👋 <br>
 
 技術工具
 ---
