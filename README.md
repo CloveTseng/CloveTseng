@@ -4,7 +4,7 @@
 ---
 #### Hi, 我是 Chloe，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，創造且關心使用者體驗並效能良好的產品。👋 <br/>
 
-👉 <a href="https://dev.chloetseng.com/"> 個人作品集網站 </a>&emsp;
+👉 <a href="https://dev.chloetseng.com/"> 個人作品集網站 </a> 
 
 Tools and Skills | 技術工具
 ---
@@ -14,23 +14,18 @@ Tools and Skills | 技術工具
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-&emsp;&emsp;
 
 Project | 專案
 ---
 * <a href="#">🌱 專案 </a>：目前製作中。
-&emsp;
 
 Resume | PDF 履歷下載
 ---
 <img alt="Static Badge" src="https://img.shields.io/badge/DOWNLOAD-8A2BE2">
-&emsp;
 
 學習文章
 ---
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-
-
 
 💬 連絡我
 ---
