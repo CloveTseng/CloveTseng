@@ -2,9 +2,11 @@
 
 <img src="https://github.com/ChloeTseng064/ChloeTseng064/blob/main/image/Chloe-min_wbg.jpg" alt="logo-min" width="20" height="20" > Front-End React Developer. 😃
 ---
-#### Hi, 我是 Chloe，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，創造且關心使用者體驗並效能良好的產品。👋 <br>
+#### Hi, 我是 Chloe，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，創造且關心使用者體驗並效能良好的產品。👋 <br/>
 
-技術工具
+👉 <a href="https://dev.chloetseng.com/"> 個人作品集網站 </a>&emsp;
+
+Tools and Skills | 技術工具
 ---
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,17 +14,17 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+&emsp;&emsp;
 
-
-專案與作品
+Project | 專案
 ---
 * <a href="#">🌱 專案 </a>：目前製作中。
+&emsp;
 
-
-Resume
+Resume | PDF 履歷下載
 ---
 <img alt="Static Badge" src="https://img.shields.io/badge/DOWNLOAD-8A2BE2">
-
+&emsp;
 
 學習文章
 ---
