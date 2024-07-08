@@ -25,7 +25,7 @@ Resume | PDF 履歷下載
 
 學習文章
 ---
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+[Zenn](https://zenn.dev/chloetseng)
 
 💬 連絡我
 ---
