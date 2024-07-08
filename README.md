@@ -1,6 +1,6 @@
 img
 
-D. Front-End React Developer. 😃
+<img src="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/dolce-icon.png?alt=media&token=912fb687-58f4-49ef-b70b-40f4a34e504e" width=20px > Front-End React Developer. 😃
 ---
 #### Hi, 我是 Dolce，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，創造且關心使用者體驗並效能良好的產品。👋 <br/>
 
