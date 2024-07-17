@@ -25,7 +25,8 @@ Resume | PDF 履歷下載
 
 學習文章
 ---
-[Zenn](https://zenn.dev/chloetseng)
+* [Zenn](https://zenn.dev/chloetseng)
+* [2024 切版直播班第二週作業 - 個人網站](https://zenn.dev/chloetseng/articles/0182b6d0b6e464)
 
 💬 連絡我
 ---
