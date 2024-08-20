@@ -25,7 +25,7 @@ Resume | PDF 履歷下載
 
 學習文章
 ---
-* [2024 每日切版任務](https://dolcetseng.github.io/vite-training/)
+* [2024 每日切版任務](https://zenn.dev/chloetseng/articles/2024-layout-course-dailymission)
 * [Zenn](https://zenn.dev/chloetseng)
 * [2024 切版班 - 課前作業一](https://zenn.dev/chloetseng/articles/51400fd32a4d56)
 * [2024 切版班 - 課前作業二](https://zenn.dev/chloetseng/articles/01c7313176ce0d)
