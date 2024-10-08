@@ -4,7 +4,7 @@ img
 ---
 #### Hi, 我是 Dolce，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，創造且關心使用者體驗並效能良好的產品。👋 <br/>
 
-👉 <a href="https://dev.chloetseng.com/"> 個人作品集網站 </a> 
+👉 <a href="#"> 個人作品集網站 </a> 
 
 Tools and Skills | 技術工具
 ---
