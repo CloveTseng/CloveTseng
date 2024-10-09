@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="image/dolce_Logo.png">
+ <img src="image/dolce_Logo.svg">
 </p>
 
 <img src="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/dolce-icon.png?alt=media&token=912fb687-58f4-49ef-b70b-40f4a34e504e" width=20px > Front-End React Developer. 😃
