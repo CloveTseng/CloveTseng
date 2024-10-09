@@ -31,8 +31,6 @@ Resume | PDF 履歷下載
 * [2024 codewars 每日刷題](https://zenn.dev/chloetseng/articles/69c83edc65283e)
 ### 切版相關
 * [2024 每日切版任務](https://zenn.dev/chloetseng/articles/2024-layout-course-dailymission)
-* [2024 第二週主線任務 - 個人網站](https://zenn.dev/chloetseng/articles/0182b6d0b6e464)
-* [2024 第六週主線任務 - ]()
 * [2024 切版班上機考](https://zenn.dev/chloetseng/articles/fe884fb860290b)
 
 💬 連絡我
