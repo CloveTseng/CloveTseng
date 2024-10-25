@@ -7,6 +7,7 @@
 ### Hi, 我是 Dolce，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，重視網頁效能及 coding 的品質。👋 <br/>
 
 👉 <a href="#"> 個人作品集網站 (建置中) </a> <br/>
+<br>
 
 ## Resume | PDF 履歷下載
 
@@ -15,8 +16,8 @@
 <br/>
 
 
-### Skills & Tools
----
+## Skills & Tools
+
 ```javascript
 const dolceTseng = {
     skills: [Javascript, HTML, CSS, Git],
