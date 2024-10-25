@@ -20,8 +20,8 @@
 
 ```javascript
 const dolceTseng = {
-    skills: [Javascript, HTML, CSS, Git],
-    tools: [React, SASS, Bootstrap, GitHub Pages, VSCode],
+    skills: [Javascript, html, css, Git],
+    tools: [React, sass, Bootstrap, GitHub Pages, VSCode],
     iCan: ['RWD', 'fix conflict', 'semantic elements'] 
 }
 
@@ -43,7 +43,7 @@ const dolceTseng = {
 * [2024 每日切版任務](https://zenn.dev/chloetseng/articles/2024-layout-course-dailymission)
 * [2024 切版班上機考](https://zenn.dev/chloetseng/articles/fe884fb860290b)
 
-## 💬 連絡我
+## Contact Me | 💬 連絡我
 
 <a href="discordapp.com/users/1218426159423819809"><img src="https://img.shields.io/badge/%40dolce_mobao-Discord-8A2BE2" alt="Discord: @DOLCE_mobao"></a>
 <a href="mailto:dolcetseng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" ></a>
