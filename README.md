@@ -16,7 +16,7 @@
 <br/>
 
 
-## Skills & Tools
+## Skills & Tools | 技能與工具
 
 ```javascript
 const dolceTseng = {
@@ -33,7 +33,7 @@ const dolceTseng = {
 
 <br>
 
-## 學習文章
+## Study Articles | 學習文章
 
 ### 框架相關
 ### JS 相關
