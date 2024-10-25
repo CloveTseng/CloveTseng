@@ -20,8 +20,8 @@
 
 ```javascript
 const dolceTseng = {
-    skills: [Javascript, html, css, Git],
-    tools: [React, sass, Bootstrap, GitHub Pages, VSCode],
+    skills: [Javascript, HTML, CSS, Git],
+    tools: [React, Sass, Bootstrap, GitHub Pages, VSCode],
     iCan: ['RWD', 'fix conflict', 'semantic elements'] 
 }
 
