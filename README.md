@@ -6,12 +6,13 @@
 
 ### Hi, 我是 Dolce，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，重視網頁效能及 coding 的品質。👋 <br/>
 
-* 身為一位軟體工程師，我主要負責前端開發領域，保持開放的心態了解並學習其他面向的知識與技術。[[^1]](#study-articles--學習文章)
+* 身為一位軟體工程師，我主要負責前端開發領域，保持開放的心態了解並學習其他面向的知識與技術。[^1]
 * 在專案中使用 Git 與組員協作，並且分享 git 相關知識、協助解決 git 衝突的經驗。[^2]。
 * 我的優勢包括有效的統整能力，能夠更好的設計架構並將任務拆解，並在跨部門協作中能撰寫清晰的文件。[^3]
 
-
+[^1]: [Study Articles | 學習筆記](#study-articles--學習文章)
 [^2]: [2024 切版班第八週主線任務 - git 協作](https://zenn.dev/chloetseng/articles/week8-main-mission)
+[^3]: [2024 切版專題 - 餘味尋蹤]()
 
 👉 <a href="#"> 個人作品集網站 (建置中) </a> <br/>
 <br>
@@ -30,6 +31,11 @@ const dolceTseng = {
     skills: [Javascript, HTML, CSS, Git],
     tools: [React, Sass, Bootstrap, GitHub Pages, VSCode],
     iCan: ['RWD', 'fix conflict', 'semantic elements'] 
+    language: {
+        traditionalChinese: '母語',
+        english: '能閱讀技術文件',
+        chinese: '能閱讀技術文件'
+    }
 }
 
 ```
