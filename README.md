@@ -56,6 +56,7 @@ const dolceTseng = {
 * [2024 每日切版任務](https://zenn.dev/chloetseng/articles/2024-layout-course-dailymission)
 * [2024 切版班上機考](https://zenn.dev/chloetseng/articles/fe884fb860290b)
 ### 後端相關
+* [2024 資料庫體驗營](https://zenn.dev/chloetseng/articles/2024-sql-experience-camp)
 
 ## Contact Me | 💬 連絡我
 
