@@ -4,9 +4,9 @@
 </p>
 
 
-### Hi, 我是 Dolce，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，重視網頁效能及 coding 的品質。👋 <br/>
+### Hi, 我是 Clove，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，重視網頁效能及 coding 的品質。👋 <br/>
 
-* 身為一位軟體工程師，我主要負責前端開發領域，保持開放的心態了解並學習其他面向的知識與技術。[^1]
+* 身為一位 Junior Software Programmer，我主要負責前端開發領域，保持開放的心態了解並學習其他面向的知識與技術。[^1]
 * 在專案中使用 Git 與組員協作，並且分享 git 相關知識、協助解決 git 衝突的經驗。[^2]。
 * 我的優勢包括有效的統整能力，能夠更好的設計架構並將任務拆解，並在跨部門協作中能撰寫清晰的文件。[^3]
 
@@ -27,7 +27,7 @@
 ## Skills & Tools | 技能與工具
 
 ```javascript
-const dolceTseng = {
+const cloveTseng = {
     skills: [Javascript, HTML, CSS, Git],
     tools: [React, Sass, Bootstrap, GitHub Pages, VSCode],
     iCan: ['RWD', 'fix conflict', 'semantic elements'] 
@@ -60,14 +60,14 @@ const dolceTseng = {
 
 ## Contact Me | 💬 連絡我
 
-<a href="discordapp.com/users/1218426159423819809"><img src="https://img.shields.io/badge/%40dolce_mobao-Discord-8A2BE2" alt="Discord: @DOLCE_mobao"></a>
+<a href="discordapp.com/users/1218426159423819809"><img src="https://img.shields.io/badge/%40dolce_mobao-Discord-8A2BE2" alt="Discord: @clove_mobao"></a>
 <a href="mailto:dolcetseng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" ></a>
 
 ---
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=dolcetseng&show_icons=true&theme=dark&title_color=d1d5ea&text_color=fcfcfc&border=true&locale=en" alt="dolcetseng" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolcetseng&show_icons=true&locale=en&layout=compact&theme=dark" alt="dolcetseng" />
 
 <!--
-**ChloeTseng064/ChloeTseng064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CloveTseng064/CloveTseng064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
