@@ -29,7 +29,7 @@
 ```javascript
 const cloveTseng = {
     skills: ['React', 'Javascript', 'HTML', 'CSS', 'Sass', 'Bootstrap', 'Git', 'RESTful API'],
-    tools: ['json-server', 'GitHub', 'VSCode', 'CodeSandbox'],
+    tools: ['json-server', 'Postman', 'GitHub', 'VSCode', 'CodeSandbox', 'ESLint', 'Prettier', 'Jest'],
     iCan: [
         '響應式網頁 RWD',
         '解決 Git 衝突並進行版本控制',
