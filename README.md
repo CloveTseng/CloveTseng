@@ -28,9 +28,16 @@
 
 ```javascript
 const cloveTseng = {
-    skills: [Javascript, HTML, CSS, Git],
-    tools: [React, Sass, Bootstrap, GitHub Pages, VSCode],
-    iCan: ['RWD', 'fix conflict', 'semantic elements'] 
+    skills: ['React', 'Javascript', 'HTML', 'CSS', 'Sass', 'Bootstrap', 'Git', 'RESTful API'],
+    tools: ['json-server', 'GitHub', 'VSCode', 'CodeSandbox'],
+    iCan: [
+        '響應式網頁 RWD',
+        '解決 Git 衝突並進行版本控制',
+        '串接並使用 RESTful API',
+        '與團隊緊密合作，確保前端設計與功能符合需求',
+        '撰寫技術文件',
+        '持續學習新技術，並引入至產品中'
+        ], 
     language: {
         traditionalChinese: '母語',
         english: '能閱讀技術文件',
