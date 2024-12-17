@@ -49,12 +49,12 @@ const cloveTseng = {
 ## Study Articles | 學習文章
 
 ### 框架相關
-* [2024 React](https://zenn.dev/chloetseng/articles/2024-react-dailymission)
+* [2024 每日 React 任務](https://zenn.dev/chloetseng/articles/2024-react-dailymission)
 ### JS 相關
 * [2024 每日 JS 任務](https://zenn.dev/chloetseng/articles/2024-js-dailymiss)
 * [2024 codewars 每日刷題](https://zenn.dev/chloetseng/articles/69c83edc65283e)
 ### 切版相關
-* [2024 每日切版任務](https://zenn.dev/chloetseng/articles/2024-layout-course-dailymission)
+* [2024 每日 切版 任務](https://zenn.dev/chloetseng/articles/2024-layout-course-dailymission)
 * [2024 切版班上機考](https://zenn.dev/chloetseng/articles/fe884fb860290b)
 ### 後端相關
 * [2024 資料庫體驗營](https://zenn.dev/chloetseng/articles/2024-sql-experience-camp)
