@@ -46,6 +46,21 @@ const cloveTseng = {
 
 <br>
 
+```mermaid
+sequenceDiagram
+    title  
+
+    participant 2024
+
+    Note right of 2024: 04/24 - 05/29 <br>軟體工程師體驗營<br>100% 完課
+    Note right of 2024: 06/05 - 08/23 <br>切版直播班<br>100% 完課
+    Note right of 2024: 09/05 - 10/05 <br>六角 x AAPD 產品研發營畢業&成發
+    Note right of 2024: 10/20 <br>切版專題成發
+    Note right of 2024: 10/21 <br>切版上機考 S 等
+    Note right of 2024: 10/24 - 12/08 <br>資料庫體驗營<br>100% 完課
+    Note right of 2024: 09/20 - 12/08 <br>JavaScript 直播班<br>100% 完課
+    Note right of 2024: 12/27 - 12/28 <br>2024 WebConf Taiwan 技術研討會 志工
+```
 ## Study Articles | 學習文章
 
 ### 框架相關
@@ -60,22 +75,6 @@ const cloveTseng = {
 * [2024 資料庫體驗營](https://zenn.dev/chloetseng/articles/2024-sql-experience-camp)
 ### 其他
 * [json-server 學習筆記]()
-
-```mermaid
-sequenceDiagram
-    title [看其他年度 Review]()
-
-    participant 2024
-
-    Note right of 2024: 04/24 - 05/29 <br>[軟體工程師體驗營](https://zenn.dev/articles/65c6d508b32b1f/)<br>100% 完課
-    Note right of 2024: 06/05 - 08/23 <br>切版直播班<br>100% 完課
-    Note right of 2024: 09/05 - 10/05 <br>六角 x AAPD 產品研發營畢業&成發
-    Note right of 2024: 10/20 <br>切版專題成發
-    Note right of 2024: 10/21 <br>切版上機考 S 等
-    Note right of 2024: 2024-11<br>資料庫體驗營<br>100% 完課
-    Note right of 2024: 2024-11<br>JavaScript 直播班<br>100% 完課
-    Note right of 2024: 2024-12<br>WebConf Taiwan 技術研討會 志工
-```
 
 ## Contact Me | 💬 連絡我
 
