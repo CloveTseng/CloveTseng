@@ -69,7 +69,7 @@
 - 建立客製化變數文件，方便開發時快速的查找
 - 依據 GitHub Flow 規則設計分支結構，統一命名規則與協作流程
 
-<a src="https://github.com/CloveTseng/flavor-trail-react" target="view_window">GitHub</a> | <a src="https://ariel0508.github.io/flavor-trail-react/" target="view-window">Demo</a>
+<a href="https://github.com/CloveTseng/flavor-trail-react" target="view_window">GitHub</a> | <a href="https://ariel0508.github.io/flavor-trail-react/" target="view-window">Demo</a>
 
 ---
 
@@ -89,7 +89,7 @@
 - 填寫個人身體數據表單及運動頻率選單頁面切版
 - 搭配設計團隊提供之 Design System ，建立變數表文件方便後續開發進行
 
-[GitHub](https://github.com/CloveTseng/iRun) | [Demo](https://ariel0508.github.io/flavor-trail-react/)
+<a href="https://github.com/CloveTseng/iRun" target="view_window">GitHub</a> | <a href="https://ariel0508.github.io/flavor-trail-react/" target="view-window">Demo</a>
 
 
 <br>
