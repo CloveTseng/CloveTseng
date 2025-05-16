@@ -3,22 +3,18 @@
  <img src="image/card.png" width="400px">
 </p>
 
+<h2>Hi, 我是 Clove</h2>
+<h3>我是一位前端工程師，掌握了 HTML、CSS、JavaScript、React 等相關核心技術，並且有搭配 GitHub、Vite 等工具開發 SPA 網站的經驗。</h3>
 
-### Hi, 我是 Clove，熱衷於前端開發、積極打造厚實硬底子並保持靈活的思維，重視網頁效能及 coding 的品質。👋 <br/>
-
-* 身為一位前端工程師，我主要負責前端開發領域，保持開放的心態了解並學習其他面向的知識與技術。[^1]
-* 在專案中使用 Git 與組員協作，並且分享 Git / GitHub 相關知識、協助解決衝突的經驗。[^2]。
-* 我的優勢包括有效的統整能力，能夠更好的設計架構並將任務拆解，並在跨部門協作中能撰寫清晰的文件。[^3]
-
-[^1]: [Study Articles | 學習筆記](#study-articles--學習文章)
-[^2]: [2024 切版班第八週主線任務 - git 協作](https://zenn.dev/chloetseng/articles/week8-main-mission)
-[^3]: [2024 切版專題 - 餘味尋蹤](https://github.com/CloveTseng/flavor-trail-react)
+- 近期持續進修 TypeScript 與 Tailwind CSS，強化元件化設計與 Hooks 應用能力。
+- 使用 JSON-server 模擬 RESTful API 並串接的經驗，並使用 Apidog 等 API 開發工具來進行測試及產出 API 文件供團隊使用。
+- 在團隊協作中，我熟悉使用 Git 進行版本控制，並在專案中運用 PR Template 促進團隊效率進行程式碼審查與討論，同時也使用 Notion 來共編技術文件，能快速融入團隊並一同創造成果。 
 
 <!-- 👉 <a href="#"> 個人作品集網站 (建置中) </a> <br/>
 <br> -->
 
 ## Resume | PDF 履歷下載
-<a href="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/%E6%9B%BE%E7%B9%AA%E7%92%87_%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB.pdf?alt=media&token=64d58aff-4311-41df-8d0c-b7ebbd375c0a">
+<a href="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/%E6%9B%BE%E7%B9%AA%E7%92%87_%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB_Resume.pdf?alt=media&token=79af5cc2-14b9-4cc6-9c5a-787a64d2265d">
 <img alt="Static Badge" src="https://img.shields.io/badge/DOWNLOAD-8A2BE2">
 </a>
 <br/>
@@ -89,7 +85,7 @@
 - 填寫個人身體數據表單及運動頻率選單頁面切版
 - 搭配設計團隊提供之 Design System ，建立變數表文件方便後續開發進行
 
-<a href="https://github.com/CloveTseng/iRun" target="view_window">GitHub</a> | <a href="https://ariel0508.github.io/flavor-trail-react/" target="view_window">Demo</a>
+<a href="https://github.com/CloveTseng/iRun" target="view_window">GitHub</a> | <a href="https://clovetseng.github.io/iRun/" target="view_window">Demo</a>
 
 
 <br>
