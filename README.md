@@ -23,38 +23,41 @@
 ## Skills & Tools | 技能與工具
 `React` `JavaScript` `TypeScript` `Tailwind` `Bootstrap` `RESTful API` `AJAX` `Git / GitHub` 
 ### React
-- 使用 Vite + React 開發 SPA 網站經驗
-- 能運用 Hook，掌握元件資料流與拆分元件
-- 使用 React Router 建構路由
+- 使用 **Vite** + React 開發 SPA 網站經驗
+- 運用 **Hook**，掌握元件資料流與拆分元件
+- 使用 **React Router** 建構路由
 - 使用 React Hook Form 製作表單及驗證功能
-- 使用 Redux 進行複雜狀態管理
+- 使用 **Redux** 進行複雜狀態管理
+
 
 ### JavaScript
 - 基礎 JavaScript 語法
 - ESLint 管理程式碼風格
-- 熟悉 AJAX / JSON，使用 Axios 串接
-- RESTful API 能力
-- 使用 JSON server 模擬 RESTful API 經驗
+- 熟悉 AJAX / JSON，使用 **Axios 串接 RESTful API** 能力
+- 使用 **JSON server** 模擬 RESTful API 經驗
 
-### 前端技術
-- 熟悉 HTML5 / CSS 3
-- RWD 響應式開發經驗
+
+### HTML5 / CSS3
+- 具備 **RWD** 響應式開發經驗
 - 熟悉 Bootstrap 5 ，可客製樣式
-- 熟悉 OOCSS 設計模式
-- 熟悉 Sass
-- 使用 Git / GitHub 進行版本控制與團隊協作經驗
+- 熟悉 **OOCSS** 設計模式將容器與內容分離
+- 熟悉 Sass (SCSS 語法)，利用 Mixin 減少重複程式碼
 
+### 其他
+- 具備使用 Git / GitHub 進行**版本控制與團隊協作**經驗
+- 認識 Figma 設計工具， 懂得查看設計文件，與設計師無障礙溝通
 
 ## Project | 專案
 
 ### Flavor Trail：餘味尋蹤
 2024/06 - 2025/03
 
-`React` `React Router` `RESTful API` 
+`React` `React Router` `RESTful API` `Git 版控`
 
 <img src="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/Pasted%20image%2020250415172900.png?alt=media&token=08cce3a2-8a5b-4a99-8bd6-9917428faccd" width="300px"/>
 
-我們希望創建一個平台，讓商家和個人能夠方便地 **捐贈或領取剩食**，從而促進資源的有效利用，保護環境， 通過合作和參與實現「零食物浪費」的目標，打造更可持續的未來。
+這是一個食物分享平台，讓用戶可分享和領取剩餘食物，促進資源共享並減少浪費。平台支持貼文發布、搜尋篩選、預約領取和社群互動功能。
+
 
 > 主要負責
 
@@ -76,8 +79,8 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-05-02%20152912.png?alt=media&token=cf2f5499-4d01-4e68-835e-5d099250c5c3" width="300px"/>
 
-此專案為六角學院前端學員與 AAPD 設計學員跨領域協作，純手刻切版專題。
-希望打造一款由 AI 教練陪伴的健身 App Prototype，主打「陪伴感」與「入門友善」。
+此專案是與 UI / UX 設計團隊協作，純手刻切版。
+目的為打造一款由 AI 教練陪伴的健身 App Prototype，主打「陪伴感」與「入門友善」。
 
 > 主要負責
 
