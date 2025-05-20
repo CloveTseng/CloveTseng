@@ -14,7 +14,7 @@
 <br> -->
 
 ## Resume | PDF 履歷下載
-<a href="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/%E6%9B%BE%E7%B9%AA%E7%92%87_%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB_Resume.pdf?alt=media&token=79af5cc2-14b9-4cc6-9c5a-787a64d2265d">
+<a href="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/%E6%9B%BE%E7%B9%AA%E7%92%87_%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB_Resume.pdf?alt=media&token=b48e2eac-6252-4f51-8c27-e08c31112134">
 <img alt="Static Badge" src="https://img.shields.io/badge/DOWNLOAD-8A2BE2">
 </a>
 <br/>
@@ -92,22 +92,18 @@
 
 ## Study Articles | 學習文章
 
-### 框架相關
-* [2024 每日 React 任務](https://zenn.dev/chloetseng/articles/2024-react-dailymission)
-### JS 相關
-* [2024 每日 JS 任務](https://zenn.dev/chloetseng/articles/2024-js-dailymiss)
-* [2024 codewars 每日刷題](https://zenn.dev/chloetseng/articles/69c83edc65283e)
-### 切版相關
-* [2024 每日 切版 任務](https://zenn.dev/chloetseng/articles/2024-layout-course-dailymission)
-* [2024 切版班上機考](https://zenn.dev/chloetseng/articles/fe884fb860290b)
+### 前端相關
+- [React Hooks Map](https://zenn.dev/chloetseng/articles/react-map-of-hooks)
+
 ### 後端相關
 * [2024 資料庫體驗營](https://zenn.dev/chloetseng/articles/2024-sql-experience-camp)
+
 ### 其他
 * [json-server 學習筆記]()
 
 ## Contact Me | 💬 連絡我
 
-<a href="discordapp.com/users/1218426159423819809"><img src="https://img.shields.io/badge/%40clove_mobao-Discord-8A2BE2" alt="Discord: @clove_mobao"></a>
+<a href="https://discord.gg/yzEaH8fhjE"><img src="https://img.shields.io/badge/%40clove_mobao-Discord-8A2BE2" alt="Discord: @clove_mobao"></a>
 <a href="mailto:clovetseng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" ></a>
 
 ---
