@@ -110,7 +110,10 @@
 <a href="mailto:clovetseng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" ></a>
 
 ---
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=clovetseng&show_icons=true&theme=dark&title_color=d1d5ea&text_color=fcfcfc&border=true&locale=en" alt="clovetseng" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=clovetseng&show_icons=true&locale=en&layout=compact&theme=dark" alt="clovetseng" />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CloveTseng&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CloveTseng&theme=react)
 
 <!--
 **CloveTseng064/CloveTseng064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
