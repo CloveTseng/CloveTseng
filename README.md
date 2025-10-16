@@ -1,34 +1,20 @@
-
-<p align="center">
- <img src="image/card.png" width="400px">
-</p>
-
 <h2>Hi, 我是 Clove</h2>
-<h3>我是一位前端工程師，掌握了 HTML、CSS、JavaScript、React 等相關核心技術，並且有搭配 GitHub、Vite 等工具開發 SPA 網站的經驗。</h3>
+<h3>我是一位前端工程師，掌握了 HTML、CSS、JavaScript、Vue3 等相關核心技術，並且有搭配 GitHub、Vite 等工具開發 SPA 網站的經驗。</h3>
 
 - 近期持續進修 TypeScript 與 Tailwind CSS，強化元件化設計與 Hooks 應用能力。
 - 使用 JSON-server 模擬 RESTful API 並串接的經驗，並使用 Apidog 等 API 開發工具來進行測試及產出 API 文件供團隊使用。
 - 在團隊協作中，我熟悉使用 Git 進行版本控制，並在專案中運用 PR Template 促進團隊效率進行程式碼審查與討論，同時也使用 Notion 來共編技術文件，能快速融入團隊並一同創造成果。 
 
-<!-- 👉 <a href="#"> 個人作品集網站 (建置中) </a> <br/>
-<br> -->
-
-## Resume | PDF 履歷下載
-<a href="https://firebasestorage.googleapis.com/v0/b/mobaocoffee.appspot.com/o/%E6%9B%BE%E7%B9%AA%E7%92%87_%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB_Resume.pdf?alt=media&token=b20783a2-dc5a-44ca-8fc2-f6478b3f99c9">
-<img alt="Static Badge" src="https://img.shields.io/badge/DOWNLOAD-8A2BE2">
-</a>
-<br/>
-
+👉 <a href="https://clovetseng.dev/"> 個人網站 </a> <br/>
+<br>
 
 ## Skills & Tools | 技能與工具
-`React` `JavaScript` `TypeScript` `Tailwind` `Bootstrap` `RESTful API` `AJAX` `Git / GitHub` 
-### React
-- 使用 **Vite** + React 開發 SPA 網站經驗
-- 運用 **Hook**，掌握元件資料流與拆分元件
-- 使用 **React Router** 建構路由
-- 使用 React Hook Form 製作表單及驗證功能
-- 使用 **Redux** 進行複雜狀態管理
-
+`Vue3` `JavaScript` `TypeScript` `Tailwind` `Bootstrap` `RESTful API` `AJAX` `Git / GitHub` 
+### Vue3
+- 使用 Nuxt.js 開發 SSR 網站經驗
+- 能運用 Composition API 掌握元件資料流與拆分
+- 使用 Vue Router 建構路由
+- 使用 Pinia 進行全域狀態管理
 
 ### JavaScript
 - 基礎 JavaScript 語法
@@ -38,9 +24,9 @@
 
 
 ### HTML5 / CSS3
-- 具備 **RWD** 響應式開發經驗
-- 熟悉 Bootstrap 5 ，可客製樣式
-- 熟悉 **OOCSS** 設計模式將容器與內容分離
+- 具備 RWD 響應式開發經驗
+- 熟悉 TailwindCSS 開發元件化樣式
+- 熟悉 OOCSS 設計模式將容器與內容分離
 - 熟悉 Sass (SCSS 語法)，利用 Mixin 減少重複程式碼
 
 ### 其他
@@ -92,17 +78,6 @@
 
 
 <br>
-
-## Study Articles | 學習文章
-
-### 前端相關
-- [React Hooks Map](https://zenn.dev/chloetseng/articles/react-map-of-hooks)
-
-### 後端相關
-* [2024 資料庫體驗營](https://zenn.dev/chloetseng/articles/2024-sql-experience-camp)
-
-### 其他
-* [json-server 學習筆記]()
 
 ## Contact Me | 💬 連絡我
 
